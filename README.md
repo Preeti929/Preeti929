@@ -3,6 +3,19 @@
 - 🌱 I’m currently a Final Year Student 
 - 📫 How to reach me 
 
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/preeti-singh) 
+ 
+## ⚡ Skills
+- **HTML, CSS, Full-Stack Web Development, DBMS, MySql, C, Python, & Machine Learning **
+- My Projects on :
+  ### 1> **REal-Time Object Detection Using Python** - My 3rd Year Mini Project, it is based on Machine Learnings
+  ### 2> **E-mail Spam Detection** - This Project was done during 6-weeks industrial training From IIT Kanpur
+  ### 3> **Portfolio Desing With Full Stacks**
+  ### 4> **Attendance Mannage System By Using Faces Of Students** - Currently I'm Working on This Project
+
+
+
+
 <!---
 Preeti929/Preeti929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
