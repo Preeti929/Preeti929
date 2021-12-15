@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preeti Singh , Student Of Computer Science And Engineering (2018-22).
 - 👀 I’m interested in Machine Learning,Full Stack Web Development,Python,MySql & Oracle Database
-- 🌱 I’m currently a Final Year Student 
+- 🌱 I’m currently a Final Year Student at KIPM College Of Engineering and Technology
 - 📫 How to reach me 
 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/preeti-singh) 
