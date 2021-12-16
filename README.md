@@ -4,7 +4,7 @@
 - 🌱 I’m currently a Final Year Student at KIPM College Of Engineering and Technology
 - 📫 How to reach me 
 
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/preeti-singh) 
+[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/preeti-singh-735a6221a) 
  
 ## My Projects
   ### 1> **Real-Time Object Detection Using Python** - My 3rd Year Mini Project, it is based on Machine Learnings
